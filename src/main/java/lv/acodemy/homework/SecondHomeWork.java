@@ -46,11 +46,10 @@ public class SecondHomeWork {
 
         if (userSalary <= 5000) {
             System.out.println("Your salary is low.");
-        } else if ( userSalary > 5000;
-        userSalary < 1000){
+        } else if (userSalary > 5000 && userSalary<=1000) {
             System.out.println("Your salary is average.");
-        } else{
-            System.out.println("Your salary is high."); // >=1000
+        } else {
+            System.out.println("Your salary is high."); // >1000
 
         }
 
