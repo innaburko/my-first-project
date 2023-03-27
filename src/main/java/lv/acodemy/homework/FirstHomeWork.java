@@ -71,10 +71,10 @@ public class FirstHomeWork {
 
         //boolean data type
 
-        boolean itIsFirstHomeWork = true;
-        boolean itIsSecondHomeWork = false;
-        System.out.println(itIsSecondHomeWork + ", It is my first homework!");
-        System.out.println(itIsFirstHomeWork);
+        boolean isItFirstHomeWork = true;
+        boolean isItSecondHomeWork = false;
+        System.out.println(isItSecondHomeWork + ", It is my first homework!");
+        System.out.println(isItFirstHomeWork);
 
         boolean myNameInna = true;
         boolean myNameAnna = false;
