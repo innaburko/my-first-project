@@ -53,7 +53,7 @@ public class SecondHomeWork {
 
         }
 
-        System.out.println("\n"); // to add to next line
+        System.out.println("\n"); // to add to next linee
 
 
         // Task 4
